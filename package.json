@@ -1,0 +1,12 @@
+{
+  "name": "readme-quality-checker",
+  "version": "1.0.0",
+  "description": "A CLI tool to check the quality of README.md in open-source projects",
+  "main": "index.js",
+  "bin": {
+    "check-readme": "./index.js"
+  },
+  "keywords": ["readme", "quality", "cli", "open-source"],
+  "author": "Your Name",
+  "license": "MIT"
+}
